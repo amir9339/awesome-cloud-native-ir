@@ -14,6 +14,9 @@ Inspired by [awesome-incident-response](https://github.com/meirwah/awesome-incid
 - [🔫 Penetration Testing](#penetration-testing)
 
 ## Books
+- [Container Security](https://www.oreilly.com/library/view/container-security/9781492056690/), Liz Rice from Aqua Security
+- [Kubernetes Security](https://info.aquasec.com/kubernetes-security), Liz Rice from Aqua Security & Michael Hausenblas
+
 
 ## CTFs / Labs
 - [Docker Forensics lab](https://attackdefense.pentesteracademy.com/listingnoauth?labtype=container-security-image-security&subtype=container-security-image-security-forensics) - The labs in this section deal with the forensics aspects of Docker components: extracting artifacts from Docker images, locate backdoors in containers, using checkpoints and recover the container state.
@@ -35,6 +38,7 @@ Inspired by [awesome-incident-response](https://github.com/meirwah/awesome-incid
 
 ## Scanners
 - [kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark.
+- [Popeye](https://github.com/derailed/popeye) - A Kubernetes cluster resource sanitizer.
 - [Trivy](https://aquasecurity.github.io/trivy/v0.24.0/) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues.
 
 ## Live Monitoring
